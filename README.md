@@ -10,3 +10,6 @@ WorldPos Shader: passes the world position to the shader, converts coordinates i
 WorldReflection Shader: implements environment reflections using cubemaps, computes reflection vectors from view direction and surface normals. 
 
 Some strengths I gained from this activity is getting hands-on experience with Unlit shaders in unity URP, learning and programming each line of code. Learning what each shader does on the 3D mesh. Some weaknesses I faced during this activity is the process of trial and error when coding the shader, the beginning phase of learning to make shaders. Some opportunities I have identified through the activity are to combine the main texture and different effects/mess around with different effects into a single unlit shader. 
+
+Video Link:
+https://drive.google.com/file/d/1sZYC4WBw0InZD8Htr5fMk_u8cSLfaNRG/view?usp=sharing 
